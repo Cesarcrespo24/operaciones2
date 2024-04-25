@@ -1,0 +1,7 @@
+C:\Users\cesar\OneDrive\Escritorio\algoritmo\operaciones2\operaciones2\obj\Debug\operaciones2.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\algoritmo\operaciones2\operaciones2\obj\Debug\operaciones2.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\algoritmo\operaciones2\operaciones2\bin\Debug\operaciones2.exe.config
+C:\Users\cesar\OneDrive\Escritorio\algoritmo\operaciones2\operaciones2\bin\Debug\operaciones2.exe
+C:\Users\cesar\OneDrive\Escritorio\algoritmo\operaciones2\operaciones2\bin\Debug\operaciones2.pdb
+C:\Users\cesar\OneDrive\Escritorio\algoritmo\operaciones2\operaciones2\obj\Debug\operaciones2.exe
+C:\Users\cesar\OneDrive\Escritorio\algoritmo\operaciones2\operaciones2\obj\Debug\operaciones2.pdb
